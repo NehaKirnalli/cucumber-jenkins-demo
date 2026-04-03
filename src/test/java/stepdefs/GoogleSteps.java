@@ -21,6 +21,6 @@ public class GoogleSteps {
 
     @Then("results should be displayed")
     public void verifyResults() {
-        System.out.println("Test Passed- Jenkins");
+        System.out.println("Test Passed- Jenkins1");
     }
 }
